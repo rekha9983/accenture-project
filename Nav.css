@@ -1,0 +1,43 @@
+.link{
+    color: antiquewhite;
+    float: left;
+    margin-right: 30px;
+    margin-top: 15px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    font-size: 25px;
+}
+.mypizza{
+    color: beige;
+    float: left;
+    margin-right: 30px;
+    margin-left:10px;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+.nav{
+    background-color: black;
+    height: 80px;
+    width: 1300px;
+    margin-left:50px;
+    margin-right:80px;
+
+}
+.btn{
+    background-color: rgb(215, 227, 42);
+    height:60px;
+    width: 150px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size:15px;
+    float: right;
+}
+/* .shoping{
+    height: 60px;
+    width: 150px;
+    background-color:rgba(234, 237, 59, 0.897);
+} */
+#cart{
+    float: right;
+    margin-left: 515px;
+}

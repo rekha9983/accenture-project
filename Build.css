@@ -1,0 +1,14 @@
+.mycontainer{
+    width: 1300px;
+    margin-left:80px;
+}
+.fw-bold{
+    font-size: 30px;
+    text-align: center;
+}
+.c1{
+    width: 1300px;
+}
+.pricecount{
+    float: right;
+}
